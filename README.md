@@ -127,8 +127,3 @@ The third feature was implemented in the form of personalised recommendations ba
 Last but not the least, a major part of the development cycle was spent in making the app more user friendly in general and in using several **optimisation techniques like caching** to make the experience smoother for the user.
 **Web scraping** also played a major role as gathering accurate data was a much more crucial and tedious task as compared to implementing ML models based on that data.
 
-## Feedback
-
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-099288175/)
-
-Looking forward to hearing from you :D
